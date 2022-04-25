@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9Eu4t3/4vL+3yTi3S/i8k7dJFINL+LyTt0kUg3/4vL+3yTi3fDv8r/RLuLd8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Character1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAADlBQAAAAAAUIJSAAAAAAAlgiIFAAAA4I6IiO4AAAAAJYIiBQAAAABQglIAAAAAAADlBQAAAAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Win"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
